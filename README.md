@@ -38,9 +38,9 @@ Please cite the following paper if you use this repository in your reseach.
   journal={IEEE Transactions on Broadcasting}, 
   title={MAFBLiF: Multi-Scale Attention Feature Fusion-Based Blind Light Field Image Quality Assessment}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-13},
+  volume={70},
+  number={4},
+  pages={1266-1278},
   keywords={Measurement;Feature extraction;Image quality;Visualization;Tensors;Electronic mail;Distortion measurement;Light field;blind image quality assessment;multi-scale attention;spatial-angular features;pooling},
   doi={10.1109/TBC.2024.3434699}}
 
